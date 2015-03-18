@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityLifecycle/ActivityLifecycle.iml" filepath="$PROJECT_DIR$/ActivityLifecycle/ActivityLifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiduLBS/BaiduLBS.iml" filepath="$PROJECT_DIR$/BaiduLBS/BaiduLBS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples.iml" filepath="$PROJECT_DIR$/Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GPSLocate/GPSLocate.iml" filepath="$PROJECT_DIR$/GPSLocate/GPSLocate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadDataFromDB/ReadDataFromDB.iml" filepath="$PROJECT_DIR$/ReadDataFromDB/ReadDataFromDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UILSample/UILSample.iml" filepath="$PROJECT_DIR$/UILSample/UILSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UILSample2/UILSample2.iml" filepath="$PROJECT_DIR$/UILSample2/UILSample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeatherForecast/WeatherForecast.iml" filepath="$PROJECT_DIR$/WeatherForecast/WeatherForecast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeatherReport/WeatherReport.iml" filepath="$PROJECT_DIR$/WeatherReport/WeatherReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+    </modules>
+  </component>
+</project>
+

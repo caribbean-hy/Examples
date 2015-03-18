@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天气预报(onLine)</string>
+    <string name="action_settings">Settings</string>
+    <string name="filter_hint">输入城市名称</string>
+    <string name="title">天气预报</string>
+    <string name="city">城市：</string>
+    <string name="province">省份</string>
+    <string name="today_wea">今日天气</string>
+    <string name="qiweng">气温：</string>
+    <string name="jinri">今日天气实况</string>
+    <string name="days">日期：</string>
+    <string name="windp">风速：</string>
+    <string name="kongqi">天气：</string>
+    <string name="wind">风向：</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="blue">@android:color/holo_blue_light</color>
+    <color name="black">#000000</color>
+    <color name="purple">@android:color/holo_purple</color>
+    <color name="gray">@android:color/darker_gray</color>
+
+    <string name="city_str">城</string>
+    <string name="xiaotieshi">今日小贴士今日小贴士今日小贴士今日小贴士今日小贴士</string>
+    <string name="startlocation">开启定位</string>
+    <string name="stoplocation">查询天气</string>
+    <string name="text">Text</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_set_city">SetCityActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2Universal Image Loader</string>
+    <string name="ac_name_image_list">2Image List Example</string>
+    <string name="ac_name_image_grid">2Image Grid Example</string>
+    <string name="ac_name_image_pager">2Image Pager Example</string>
+    <string name="ac_name_image_gallery">2Image Gallery Example</string>
+    <string name="ac_name_complex">Complex Example</string>
+    <!-- Labels -->
+    <string name="label_examples">Examples</string>
+    <string name="button_image_list">ListView</string>
+    <string name="button_image_grid">GridView</string>
+    <string name="button_image_pager">ViewPager</string>
+    <string name="button_image_gallery">Gallery</string>
+    <string name="button_list_and_grid">ViewPager (ListView + GridView)</string>
+    <string name="title_list">List2</string>
+    <string name="title_grid">Grid2</string>
+    <string name="menu_item_clear_memory_cache">Clear memory cache</string>
+    <string name="menu_item_clear_disc_cache">Clear disc cache</string>
+    <string name="menu_item_pause_on_scroll">Pause on scroll</string>
+    <string name="menu_item_pause_on_fling">Pause on fling</string>
+
+    <!-- Content descriptions -->
+    <string name="descr_image">Image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_simple_image">SimpleImageActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':app2', ':ActivityLifecycle', ':UILSample', ':UILSample2', ':WeatherForecast', ':ReadDataFromDB', ':WeatherReport', ':GPSLocate', ':BaiduLBS'

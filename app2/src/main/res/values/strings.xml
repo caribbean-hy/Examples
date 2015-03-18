@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">画廊实例</string>
+    <string name="hello_world">画廊实例</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">爱好选择实例</string>
+    <string name="spinner_app_name">爱好选择实例</string>
+    <string name="ys">您的爱好</string>
+    <string name="lq">篮  球</string>
+    <string name="zq">足  球</string>
+    <string name="pq">排  球</string>
+    <string name="title_activity_time_picker">日期和时间选择控件</string>
+    <string name="pick_time">选择时间</string>
+    <string name="date_time">选择日期</string>
+    <string name="title_activity_options_menu">OptionsMenuActivity</string>
+
+</resources>
